@@ -3,7 +3,7 @@ Package["Project`"]
 (* this is declaring that a certain simbol can be used OUTSIDE the paclet *)
 PackageExport[Hipsterize]
 
-Hipsterize[image_] := 
+CreateHipsterize[image_] :=
 	Join[
 		ColorSeparate @ image, {
 			image, 
@@ -16,3 +16,5 @@ Hipsterize[image_] :=
 			Image[image, ColorSpace -> "XYZ"]
 		}
 	]
+
+HomeWorkFunction
