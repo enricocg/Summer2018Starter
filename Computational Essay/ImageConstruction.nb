@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       161,          7]
-NotebookDataLength[      7123,        197]
-NotebookOptionsPosition[      5814,        169]
-NotebookOutlinePosition[      6168,        185]
-CellTagsIndexPosition[      6125,        182]
+NotebookDataLength[      7443,        205]
+NotebookOptionsPosition[      6038,        176]
+NotebookOutlinePosition[      6392,        192]
+CellTagsIndexPosition[      6349,        189]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -132,6 +132,13 @@ Cell[BoxData["16728040"], "Output",
  CellLabel->"Out[14]=",ExpressionUUID->"02943bf5-2f24-4c8b-bc3b-f640d25a4986"]
 }, Open  ]],
 
+Cell["\<\
+Expression to create a computable file with the images information:\
+\>", "CodeText",
+ CellChangeTimes->{{3.739390667140349*^9, 
+  3.739390702124713*^9}},ExpressionUUID->"004ccaef-cb13-4c98-8bd2-\
+babcc62c1633"],
+
 Cell[CellGroupData[{
 
 Cell[BoxData[
@@ -194,11 +201,12 @@ Cell[CellGroupData[{
 Cell[4116, 124, 213, 3, 30, "Input",ExpressionUUID->"4a80ba06-a7dd-48b1-9821-c10999982231"],
 Cell[4332, 129, 158, 2, 34, "Output",ExpressionUUID->"02943bf5-2f24-4c8b-bc3b-f640d25a4986"]
 }, Open  ]],
+Cell[4505, 134, 221, 5, 38, "CodeText",ExpressionUUID->"004ccaef-cb13-4c98-8bd2-babcc62c1633"],
 Cell[CellGroupData[{
-Cell[4527, 136, 517, 12, 52, "Input",ExpressionUUID->"7aebd4a9-ba3e-43c0-a91c-e89f54f9ef10"],
-Cell[5047, 150, 317, 4, 34, "Output",ExpressionUUID->"11cd5bcc-499b-49f5-80ab-5df381ee477f"]
+Cell[4751, 143, 517, 12, 52, "Input",ExpressionUUID->"7aebd4a9-ba3e-43c0-a91c-e89f54f9ef10"],
+Cell[5271, 157, 317, 4, 34, "Output",ExpressionUUID->"11cd5bcc-499b-49f5-80ab-5df381ee477f"]
 }, Open  ]],
-Cell[5379, 157, 431, 10, 30, "Input",ExpressionUUID->"9cc7fe5d-f338-4774-8683-c3b22ed423d3"]
+Cell[5603, 164, 431, 10, 30, "Input",ExpressionUUID->"9cc7fe5d-f338-4774-8683-c3b22ed423d3"]
 }
 ]
 *)
